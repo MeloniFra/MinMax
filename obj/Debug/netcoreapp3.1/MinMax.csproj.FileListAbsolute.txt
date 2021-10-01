@@ -1,0 +1,13 @@
+C:\Users\francesco.meloni.ITT\Desktop\Git\MinMax\bin\Debug\netcoreapp3.1\MinMax.exe
+C:\Users\francesco.meloni.ITT\Desktop\Git\MinMax\bin\Debug\netcoreapp3.1\MinMax.deps.json
+C:\Users\francesco.meloni.ITT\Desktop\Git\MinMax\bin\Debug\netcoreapp3.1\MinMax.runtimeconfig.json
+C:\Users\francesco.meloni.ITT\Desktop\Git\MinMax\bin\Debug\netcoreapp3.1\MinMax.runtimeconfig.dev.json
+C:\Users\francesco.meloni.ITT\Desktop\Git\MinMax\bin\Debug\netcoreapp3.1\MinMax.dll
+C:\Users\francesco.meloni.ITT\Desktop\Git\MinMax\bin\Debug\netcoreapp3.1\MinMax.pdb
+C:\Users\francesco.meloni.ITT\Desktop\Git\MinMax\obj\Debug\netcoreapp3.1\MinMax.csproj.AssemblyReference.cache
+C:\Users\francesco.meloni.ITT\Desktop\Git\MinMax\obj\Debug\netcoreapp3.1\MinMax.AssemblyInfoInputs.cache
+C:\Users\francesco.meloni.ITT\Desktop\Git\MinMax\obj\Debug\netcoreapp3.1\MinMax.AssemblyInfo.cs
+C:\Users\francesco.meloni.ITT\Desktop\Git\MinMax\obj\Debug\netcoreapp3.1\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\francesco.meloni.ITT\Desktop\Git\MinMax\obj\Debug\netcoreapp3.1\MinMax.dll
+C:\Users\francesco.meloni.ITT\Desktop\Git\MinMax\obj\Debug\netcoreapp3.1\MinMax.pdb
+C:\Users\francesco.meloni.ITT\Desktop\Git\MinMax\obj\Debug\netcoreapp3.1\MinMax.genruntimeconfig.cache
